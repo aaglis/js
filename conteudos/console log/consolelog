@@ -1,0 +1,17 @@
+//aspas simples:
+console.log('digitado com aspas simples.')
+//pode usar aspas duplas dentro, sem problemas.
+
+//aspas duplas:
+console.log("digitado com aspas duplas.")
+//pode usar aspas simples dentro, sem problemas.
+
+//crase (ou template string):
+console.log(`digitado usando template string`)
+//pode usar aspas(simples e duplas) sem problemas.
+
+/*obs:
+  posso passar vários valores dentro do console.log sem problemas,
+  separando-os por virgulas. exemplo:
+*/
+console.log(`valor1`, `valor2`, 1, 2, `valor5`)
