@@ -7,4 +7,4 @@ let indefinido
 // null:
 let nulo = null 
 //boolean:
-let aprovado = true
+let aprovado = truezzz
